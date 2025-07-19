@@ -1,0 +1,25 @@
+{
+  "name": "ejercicios_practicos_m4",
+  "version": "1.0.0",
+  "description": "Recopilatorio de ejercicios de modulo 4\"fundamentos de programación en JS\" de bootcamp \"Desarrollo de aplicaciones front end trainee\" impartido por UNAB y talento digital para Chile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soyNelsonValenzuela/Ejercicios_practicos_M4.git"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "Nelson Valenzuela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soyNelsonValenzuela/Ejercicios_practicos_M4/issues"
+  },
+  "homepage": "https://github.com/soyNelsonValenzuela/Ejercicios_practicos_M4#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
