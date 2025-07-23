@@ -11,6 +11,8 @@ Cada ejercicio se encuentra en una carpeta individual con el mismo nombre del ej
 | Ejercicio | Enlace a la carpeta |
 |----------|---------------------|
 | M4AE1-ABPRO1 | [📁 Ir a la carpeta](./M4AE1-ABPRO1) |
+| M4AE2-ABP2 | [📁 Ir a la carpeta](./M4AE2-ABP2) |
+| M4AE2-ABP3 | [📁 Ir a la carpeta](./M4AE2-ABP3) |
 
 ---
 
