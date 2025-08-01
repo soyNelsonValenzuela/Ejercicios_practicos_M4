@@ -27,7 +27,7 @@ Función que suma todos los números pares desde 2 hasta `n`, siempre que `n` se
 Función que imprime la tabla de multiplicar del número `n` desde 1 hasta 12, validando que `n` sea un número válido.
 
 ### 6. Ordenar un arreglo de números
-Función que toma un arreglo de números desordenados y los ordena de forma ascendente utilizando el método `.sort()` con comparación numérica.
+Función que toma un arreglo de números desordenados y genera un arreglo ordenado de forma ascendente utilizando el método `.sort()` con comparación numérica, sin modificar el arreglo original.
 
 ---
 
