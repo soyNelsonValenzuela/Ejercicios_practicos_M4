@@ -16,6 +16,7 @@ Cada ejercicio se encuentra en una carpeta individual con el mismo nombre del ej
 | M4AE2-ABPRO2 | [📁 Ir a la carpeta](./M4AE2-ABPRO2) |
 | M4AE3-ABP4 | [📁 Ir a la carpeta](./M4AE3-ABP4) |
 | M4AE4-ABP5 | [📁 Ir a la carpeta](./M4AE4-ABP5) |
+| M4AE5-ABP6 | [📁 Ir a la carpeta](./M4AE5-ABP6) |
 
 ---
 
@@ -80,4 +81,4 @@ Este repositorio es de uso educativo y no tiene fines comerciales.
 
 ---
 
-> *Última actualización: 29 de Julio de 2025*
+> *Última actualización: 01 de Agosto de 2025*
